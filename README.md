@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Odin and I'm Fullstack Developper, form France</h2>
+<h2 align="center">Hi 👋! My name is Odin and I'm Fullstack Developper, from France</h2>
 
 ###
 
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">I'm passionnate developper who started 3 years ago, i do a lot of project you can find on this page, if your interessed pls reach out</p>
+<p align="left">I am a passionate developer who started coding three years ago. I have worked on numerous projects, which you can find on this page. If you're interested, please feel free to reach out!</p>
 
 ###
 
