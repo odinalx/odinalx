@@ -1,9 +1,9 @@
 <h2 align="center">Hi 👋! My name is Odin and I'm Fullstack Developper, from France</h2>
 
 ###
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=odinalx)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odinalx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odinalx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
